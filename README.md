@@ -4,7 +4,7 @@
 
 By [Moshe Zfania](https://github.com/SasonCoding?tab=repositories)
 
-The goal was to build a web application that demonstrated my ability to incorporate MongoDB, Express, React, and Node.js. I built a project management site where users can create new projects, add tasks, and update their progress as they work. You can find my site [here](http://optimaltask.herokuapp.com/)
+The goal was to build a web application that demonstrated my ability to incorporate MongoDB, Express, React, and Node.js. I built a project management site where users can create new projects, add tasks, and update their progress as they work.
 
 ## Screenshots
 

@@ -12,10 +12,6 @@ The goal was to build a web application that demonstrated my ability to incorpor
 
 ![Profile Page](/frontend/src/Images/profile.png)
 
-![Sign Up Page](/frontend/src/Images/register.png)
-
-![Login Page](/frontend/src/Images/login.png)
-
 ## How to Start
 
 Download or clone this repository. Then in both the OpTask folder and frontend folder use:
